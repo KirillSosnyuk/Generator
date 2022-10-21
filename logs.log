@@ -1,0 +1,10 @@
+Fuction func_from_previous_hometask
+started at 2022-10-21 04:03:48.379490
+with arguements (([{1, 2, 3}, {'a': 1, 'b': 2}, ['a', 'b'], ['a', 'b', [1, ['I love Python', 'hey', 0, -4], 2], 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+and returned result: [{1, 2, 3}, {'a': 1, 'b': 2}, 'a', 'b', 'a', 'b', 1, 'I love Python', 'hey', 0, -4, 2, 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+
+Fuction func_from_previous_hometask
+started at 2022-10-21 04:05:09.057823
+with arguements (([{1, 2, 3}, {'a': 1, 'b': 2}, ['a', 'b'], ['a', 'b', [1, ['I love Python', 'hey', 0, -4], 2], 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+and returned result: [{1, 2, 3}, {'a': 1, 'b': 2}, 'a', 'b', 'a', 'b', 1, 'I love Python', 'hey', 0, -4, 2, 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+
