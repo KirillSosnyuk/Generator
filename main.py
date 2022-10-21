@@ -19,7 +19,7 @@ def logger(path: str='logs/file.log'):
     return logging_func
 
 
-@logger('logs.log')
+@logger()
 def func_from_previous_hometask(mylist: list):
     new_list = []
     while any(filter(lambda x: type(x) == list, mylist)):

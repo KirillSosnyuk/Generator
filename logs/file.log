@@ -1,0 +1,5 @@
+Fuction func_from_previous_hometask
+started at 2022-10-21 04:06:52.575312
+with arguements (([{1, 2, 3}, {'a': 1, 'b': 2}, ['a', 'b'], ['a', 'b', [1, ['I love Python', 'hey', 0, -4], 2], 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {})
+and returned result: [{1, 2, 3}, {'a': 1, 'b': 2}, 'a', 'b', 'a', 'b', 1, 'I love Python', 'hey', 0, -4, 2, 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+
